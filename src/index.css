@@ -25,6 +25,8 @@
   --grey: #757575;
   --brown: #6f5e4d;
   --bg-coffee: #642f21;
+  --dark-pink:#bf4354;
+  --ligh-pink:#e47c84;
 }
 body,html{
   font-size:1rem;
@@ -70,22 +72,22 @@ a{
 /*Common Button*/
 .order_now{
   color:var(--light-black);
-  background: var(--yellow);
-  border-color: var(--yellow);
-  padding:15px 38px;
-  font-size:18px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  font-family: var(--oswald-font);
-  vertical-align: middle;
-  text-transform: uppercase;
-  transition: all 0.3s ease-in-out;
+  background: var(--dark-pink)!important;
+  border-color: var(--dark-pink)!important;
+  padding:15px 38px!important;
+  font-size:18px!important;
+  font-weight: 600!important;
+  letter-spacing: 0.5px!important;
+  font-family: var(--oswald-font)!important;
+  vertical-align: middle!important;
+  text-transform: uppercase!important;
+  transition: all 0.3s ease-in-out!important;
 }
 .order_now:hover,
 .order_now:focus{
-  color:var(--white);
-  background: transparent;
-  border-color: var(--white);
+  color:var(--white) !important;
+  background: transparent !important;
+  border-color: var(--white) !important;
 }
 .btn_red{
   color:var(--white);
