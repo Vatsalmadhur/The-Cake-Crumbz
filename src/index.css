@@ -85,9 +85,9 @@ a{
 }
 .order_now:hover,
 .order_now:focus{
-  color:var(--white) !important;
+  color:var(--light-red) !important;
   background: transparent !important;
-  border-color: var(--white) !important;
+  border-color: var(--light-red) !important;
 }
 .btn_red{
   color:var(--white);
