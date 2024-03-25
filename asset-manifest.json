@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/The-Cake-Crumbz/static/css/main.6b3b8c36.css",
+    "main.js": "/The-Cake-Crumbz/static/js/main.ad200516.js",
+    "static/js/453.8b6a5251.chunk.js": "/The-Cake-Crumbz/static/js/453.8b6a5251.chunk.js",
+    "static/media/about-1.png": "/The-Cake-Crumbz/static/media/about-1.50fc7667aa28927cd981.png",
+    "static/media/hero1.png": "/The-Cake-Crumbz/static/media/hero1.ecfc01bbd6fb3030b612.png",
+    "static/media/Image7.jpg": "/The-Cake-Crumbz/static/media/Image7.eac0b123bc5f3cbe1762.jpg",
+    "static/media/Image8.jpg": "/The-Cake-Crumbz/static/media/Image8.d2a5d3ddce8883ddaf2a.jpg",
+    "static/media/Image6.jpg": "/The-Cake-Crumbz/static/media/Image6.0d1773c1cb2e7aa396ca.jpg",
+    "static/media/Image2.jpg": "/The-Cake-Crumbz/static/media/Image2.a44b50a039e283e3c8bb.jpg",
+    "static/media/Image1.jpg": "/The-Cake-Crumbz/static/media/Image1.bc9862afa302104f345f.jpg",
+    "static/media/bootstrap-icons.woff?": "/The-Cake-Crumbz/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/logo-removebg-preview.png": "/The-Cake-Crumbz/static/media/logo-removebg-preview.7822c336f93f6a0ec9c6.png",
+    "static/media/Image5.jpg": "/The-Cake-Crumbz/static/media/Image5.f705457e4da00b28fef6.jpg",
+    "static/media/bootstrap-icons.woff2?": "/The-Cake-Crumbz/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Image3.jpg": "/The-Cake-Crumbz/static/media/Image3.093c2d0de79dc7e17b8c.jpg",
+    "static/media/Image4.jpg": "/The-Cake-Crumbz/static/media/Image4.0f1edc0f26ec7e241704.jpg",
+    "index.html": "/The-Cake-Crumbz/index.html",
+    "main.6b3b8c36.css.map": "/The-Cake-Crumbz/static/css/main.6b3b8c36.css.map",
+    "main.ad200516.js.map": "/The-Cake-Crumbz/static/js/main.ad200516.js.map",
+    "453.8b6a5251.chunk.js.map": "/The-Cake-Crumbz/static/js/453.8b6a5251.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b3b8c36.css",
+    "static/js/main.ad200516.js"
+  ]
+}
