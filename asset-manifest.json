@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Cake-Crumbz/static/css/main.6b3b8c36.css",
-    "main.js": "/The-Cake-Crumbz/static/js/main.7afabaf3.js",
+    "main.js": "/The-Cake-Crumbz/static/js/main.633b0d78.js",
     "static/js/453.8b6a5251.chunk.js": "/The-Cake-Crumbz/static/js/453.8b6a5251.chunk.js",
     "static/media/about-1.png": "/The-Cake-Crumbz/static/media/about-1.50fc7667aa28927cd981.png",
     "static/media/hero1.png": "/The-Cake-Crumbz/static/media/hero1.ecfc01bbd6fb3030b612.png",
@@ -18,11 +18,11 @@
     "static/media/Image4.jpg": "/The-Cake-Crumbz/static/media/Image4.0f1edc0f26ec7e241704.jpg",
     "index.html": "/The-Cake-Crumbz/index.html",
     "main.6b3b8c36.css.map": "/The-Cake-Crumbz/static/css/main.6b3b8c36.css.map",
-    "main.7afabaf3.js.map": "/The-Cake-Crumbz/static/js/main.7afabaf3.js.map",
+    "main.633b0d78.js.map": "/The-Cake-Crumbz/static/js/main.633b0d78.js.map",
     "453.8b6a5251.chunk.js.map": "/The-Cake-Crumbz/static/js/453.8b6a5251.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b3b8c36.css",
-    "static/js/main.7afabaf3.js"
+    "static/js/main.633b0d78.js"
   ]
 }
